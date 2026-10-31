@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+#navbar {
+    overflow: auto;
+    color: rgb(243, 242, 232);
+    background-color: rgb(40, 34, 66);
+}
+
+#navbar a {
+    color: rgb(243, 242, 232);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#navbar h1 {
+    float: left;
+    padding-top: 20px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+#navbar ul {
+    float: right;
+}
+
+#navbar li {
+    display: inline;
+    margin: 10px;
+}
